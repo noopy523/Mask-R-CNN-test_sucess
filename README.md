@@ -9,7 +9,8 @@ grayscale.
 From the [Releases page](https://github.com/matterport/Mask_RCNN/releases) page:
 1. Download `mask_rcnn_balloon.h5`. Save it in the root directory of the repo (the `mask_rcnn` directory).
 2. Download `balloon_dataset.p3`. Expand it such that it's in the path `mask_rcnn/datasets/balloon/`.
-是下載source code.zip檔案(https://github.com/matterport/Mask_RCNN/releases)下去修改，而非matterport(https://github.com/matterport/Mask_RCNN)。
+是下載source code.zip檔案下去修改(https://github.com/matterport/Mask_RCNN/releases)
+而非matterport(https://github.com/matterport/Mask_RCNN)。
 
 ## Run Jupyter notebooks
 Open the `inspect_balloon_data.ipynb` or `inspect_balloon_model.ipynb` Jupter notebooks. 
