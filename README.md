@@ -15,7 +15,7 @@ From the [Releases page](https://github.com/matterport/Mask_RCNN/releases) page:
 Open the `inspect_balloon_data.ipynb` or `inspect_balloon_model.ipynb` Jupter notebooks. 
 You can use these notebooks to explore the dataset and run through the detection pipelie step by step.
 inspect_balloon_model.ipynb是檢測氣球
-test2.ipynb是檢測one punch man
+test_success.ipynb是檢測one punch man
 
 現在預設的train+val資料夾是檢測one punch man，如果要改回檢測氣球須把balloon_dataset兩個資料夾拉出來，或在code裡面更換讀取位置。
 主要更改地都在model.py裡面，有中文註釋改了哪些地方。
@@ -23,7 +23,7 @@ test2.ipynb是檢測one punch man
 ## config 
 batch size=1
 resnet50
-顯卡不足，這兩者我調小，皆可自行更改。
+顯卡不足，這兩者我都調小，皆可自行更改。
 
 ## Train the Balloon model
 
