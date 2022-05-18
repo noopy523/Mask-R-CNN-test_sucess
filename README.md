@@ -48,6 +48,6 @@ The code in `balloon.py` is set to train for 3K steps (30 epochs of 100 steps ea
 Update the schedule to fit your needs.
 
 ## Result
-![image]([picture or gif url](https://github.com/noopy523/Mask-R-CNN-test_sucess/blob/main/test4.jpg))
+![image](https://github.com/noopy523/Mask-R-CNN-test_sucess/blob/main/test4.jpg))
 
 
